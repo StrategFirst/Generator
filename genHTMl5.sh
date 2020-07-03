@@ -1,3 +1,14 @@
+# genHTML5
+#
+# Auteur : Mathieu TOULON aka StrategeFirst
+# Contact : mathieu.toulon[at]free.fr
+# Date de création : 02/07/2020
+# Dernière màj : 03/07/2020
+#
+# Objectif : créé une base HTML pur rapidement
+
+
+
 #0 - Initialisation
 CSS=false
 JS=false
